@@ -1,0 +1,17 @@
+# import random 
+# print('\n\t\t ==== JOGO DA ADIVINHAÇAO ==== \n')
+# resultado = random.randint(0,15)
+# tentativas = 0
+# for i in range(10):
+#     n=int(input('digite um numero de 1 a 10:'))
+#     tentativas += 1
+    
+
+#     if  n < resultado:
+#         print(f'Chutou BAIXO! Tente um numero maior. ')
+#     elif n > resultado:
+#         print(f'Chutou ALTO! Tente um numero menor.')
+#     else:
+#         print(f'PARABENS! Voce acertou {tentativas} tentativas! ')
+#         break
+# print(f'{resultado}')
